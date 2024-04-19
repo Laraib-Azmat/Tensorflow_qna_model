@@ -1,4 +1,4 @@
-# Lecture-10-11-12-ReactNative
+# React Native Tensorflow qna model
 Using MobileNet (Tensorflow AI Model) for Object Detection from Captured Images + Firebase Authentication /Storage
 
 ## TensorFlow AI Model
