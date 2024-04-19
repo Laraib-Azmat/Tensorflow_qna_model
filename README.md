@@ -1,5 +1,5 @@
 # React Native Tensorflow qna model
-Using MobileNet (Tensorflow AI Model) for Object Detection from Captured Images + Firebase Authentication /Storage
+Using MobileNet (Tensorflow AI Model) for Object Detection from Captured Images + Firebase Authentication /Storage + firebase-database
 
 ## TensorFlow AI Model
 1. Used pretrained MobileNet model for object detection from images
@@ -13,7 +13,7 @@ In **firebase.js** file add your firebase configuration object. The steps to obt
 4. Add your project name and get creditional
 
 ## Method to run this project
-1. Clone directory (git clone https://github.com/KanYousaf/Lecture-10-11-12-ReactNative2024.git) or download ZIP to extract folder
+1. Clone directory (git clone [https://github.com/KanYousaf/Lecture-10-11-12-ReactNative2024.git](https://github.com/Laraib-Azmat/Tensorflow_qna_model)) or download ZIP to extract folder
 2. Use powershell or VS code terminal to goto the project directory
 3. Run command "npm install" (It will install the necessary packages of package.json file)
 4. In Case of error on any package: Do npm install (pakage name)
