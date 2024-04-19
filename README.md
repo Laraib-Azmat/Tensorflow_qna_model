@@ -16,4 +16,5 @@ In **firebase.js** file add your firebase configuration object. The steps to obt
 1. Clone directory (git clone https://github.com/KanYousaf/Lecture-10-11-12-ReactNative2024.git) or download ZIP to extract folder
 2. Use powershell or VS code terminal to goto the project directory
 3. Run command "npm install" (It will install the necessary packages of package.json file)
-4. Run command "expo start"
+4. In Case of error on any package: Do npm install (pakage name)
+5. Run command "expo start"
